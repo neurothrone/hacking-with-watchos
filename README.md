@@ -18,6 +18,7 @@ My journey through Paul Hudson's [Hacking with watchOS][hacking-with-watchos] bo
 | Project 4                   | [Currency Converter][project-4]                  |
 | Project 5                   | [Hue Knows][project-5]                           |
 | Project 7                   | [Magic 8-Ball][project-7]                        |
+| Project 8                   | [Safe Crack][project-8]                          |
 
 
 [project-1]: https://github.com/neurothrone/note-dictate
@@ -25,3 +26,4 @@ My journey through Paul Hudson's [Hacking with watchOS][hacking-with-watchos] bo
 [project-4]: https://github.com/neurothrone/currency-converter
 [project-5]: https://github.com/neurothrone/hue-knows
 [project-7]: https://github.com/neurothrone/magic-eight-ball
+[project-8]: https://github.com/neurothrone/safe-crack
