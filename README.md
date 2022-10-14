@@ -21,6 +21,7 @@ My journey through Paul Hudson's [Hacking with watchOS][hacking-with-watchos] bo
 | Project 8                   | [Safe Crack][project-8]                          |
 | Project 10                  | [iMove][project-10]                              |
 | Project 11                  | [Color Spin][project-11]                         |
+| Project 12                  | [Watch Connectivity][project-12]                 |
 
 
 [project-1]: https://github.com/neurothrone/note-dictate
@@ -31,3 +32,4 @@ My journey through Paul Hudson's [Hacking with watchOS][hacking-with-watchos] bo
 [project-8]: https://github.com/neurothrone/safe-crack
 [project-10]: https://github.com/neurothrone/imove
 [project-11]: https://github.com/neurothrone/colorspin
+[project-12]: https://github.com/neurothrone/watch-connectivity
