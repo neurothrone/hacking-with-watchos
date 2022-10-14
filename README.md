@@ -20,6 +20,7 @@ My journey through Paul Hudson's [Hacking with watchOS][hacking-with-watchos] bo
 | Project 7                   | [Magic 8-Ball][project-7]                        |
 | Project 8                   | [Safe Crack][project-8]                          |
 | Project 10                  | [iMove][project-10]                              |
+| Project 11                  | [Color Spin][project-11]                         |
 
 
 [project-1]: https://github.com/neurothrone/note-dictate
@@ -29,3 +30,4 @@ My journey through Paul Hudson's [Hacking with watchOS][hacking-with-watchos] bo
 [project-7]: https://github.com/neurothrone/magic-eight-ball
 [project-8]: https://github.com/neurothrone/safe-crack
 [project-10]: https://github.com/neurothrone/imove
+[project-11]: https://github.com/neurothrone/colorspin
